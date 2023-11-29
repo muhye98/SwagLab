@@ -39,7 +39,7 @@ public class SwagLabTest extends Parameters {
 			} else {
 				AddToCart.get(i).click();
 				PriceForItems.get(i).getText();
-				System.out.println(PriceForItems.get(i).getText());
+				System.out.println("This is the Old price without Tax "+PriceForItems.get(i).getText());
 				String PriceEND = PriceForItems.get(i).getText().replace("$", " ");
 				double PriceAsDouble = Double.parseDouble(PriceEND);
 				double TaxValue = 0.10;
