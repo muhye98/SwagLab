@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-29T17:25:04 EET" name="Default suite" finished-at="2023-11-29T17:25:05 EET" duration-ms="1565">
+  <suite started-at="2023-11-29T17:50:35 EET" name="Default suite" finished-at="2023-11-29T17:50:37 EET" duration-ms="1908">
     <groups>
     </groups>
-    <test started-at="2023-11-29T17:25:04 EET" name="Default test" finished-at="2023-11-29T17:25:05 EET" duration-ms="1565">
+    <test started-at="2023-11-29T17:50:35 EET" name="Default test" finished-at="2023-11-29T17:50:37 EET" duration-ms="1908">
       <class name="SwagLab.SwagLabTest">
-        <test-method is-config="true" signature="MyBeforeTest()[pri:0, instance:SwagLab.SwagLabTest@4763c727]" started-at="2023-11-29T17:25:04 EET" name="MyBeforeTest" finished-at="2023-11-29T17:25:05 EET" duration-ms="1132" status="PASS">
+        <test-method is-config="true" signature="MyBeforeTest()[pri:0, instance:SwagLab.SwagLabTest@4763c727]" started-at="2023-11-29T17:50:35 EET" name="MyBeforeTest" finished-at="2023-11-29T17:50:36 EET" duration-ms="1458" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MyBeforeTest -->
-        <test-method signature="FirstTest()[pri:0, instance:SwagLab.SwagLabTest@4763c727]" started-at="2023-11-29T17:25:05 EET" name="FirstTest" finished-at="2023-11-29T17:25:05 EET" duration-ms="401" status="PASS">
+        <test-method signature="FirstTest()[pri:0, instance:SwagLab.SwagLabTest@4763c727]" started-at="2023-11-29T17:50:36 EET" name="FirstTest" finished-at="2023-11-29T17:50:37 EET" duration-ms="422" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FirstTest -->
-        <test-method is-config="true" signature="MyAfterTest()[pri:0, instance:SwagLab.SwagLabTest@4763c727]" started-at="2023-11-29T17:25:05 EET" name="MyAfterTest" finished-at="2023-11-29T17:25:05 EET" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="MyAfterTest()[pri:0, instance:SwagLab.SwagLabTest@4763c727]" started-at="2023-11-29T17:50:37 EET" name="MyAfterTest" finished-at="2023-11-29T17:50:37 EET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MyAfterTest -->

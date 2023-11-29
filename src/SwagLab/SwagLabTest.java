@@ -44,7 +44,7 @@ public class SwagLabTest extends Parameters {
 				double PriceAsDouble = Double.parseDouble(PriceEND);
 				double TaxValue = 0.10;
 				double finelPrice = PriceAsDouble * TaxValue + PriceAsDouble;
-				if (finelPrice % 2 == 0) {
+				if ((int)finelPrice % 2 == 0) {
 					System.out.println("the final price is even number and the value of this number " + finelPrice);
 				} else {
 					System.out.println("the final price is an odd number and the value of this price " + finelPrice);
